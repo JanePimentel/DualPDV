@@ -25,3 +25,7 @@ yarn android
 
 # (opcional) Link manual de bibliotecas nativas
 npx react-native link
+
+## Screenshots
+<img src="src/screenshots/dualpdv_1.jpeg" width="150" alt="Tela 1" />
+<img src="src/screenshots/dualpdv_2.jpeg" width="150" alt="Tela 2" />
