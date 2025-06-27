@@ -28,29 +28,22 @@ npx react-native link
 
 ## Screenshots do Sistema DualPDV
 
-### Tela 1
-![Tela 1](screenshots/dualpdv (1).jpeg)
+## Screenshots do Sistema
 
-### Tela 2
-![Tela 2](screenshots/dualpdv (2).jpeg)
+### Aviso de Sincronização
+![Aviso para sincronizar o aplicativo](screenshots/dualpdv_(1).jpeg)
 
-### Tela 3
-![Tela 3](screenshots/dualpdv (3).jpeg)
+### Seleção de Idioma
+![Opções de idioma: Português e English](screenshots/dualpdv_(2).jpeg)
 
-### Tela 4
-![Tela 4](screenshots/dualpdv (4).jpeg)
+### Chave de Assinatura
+![Campo para inserir a chave de assinatura](screenshots/dualpdv_(3).jpeg)
 
-### Tela 5
-![Tela 5](screenshots/dualpdv (5).jpeg)
+### Fluxo de Caixa Fechado
+![Menu do sistema com opções como Vender, Estoque, etc.](screenshots/dualpdv_(4).jpeg)
 
-### Tela 6
-![Tela 6](screenshots/dualpdv (6).jpeg)
+### Despesas (Formulário Vazio)
+![Formulário para registrar despesas com campos vazios](screenshots/dualpdv_(8).jpeg)
 
-### Tela 7
-![Tela 7](screenshots/dualpdv (7).jpeg)
-
-### Tela 8
-![Tela 8](screenshots/dualpdv (8).jpeg)
-
-### Tela 9
-![Tela 9](screenshots/dualpdv (9).jpeg)
+### Despesas (Preenchido)
+![Exemplo de despesa preenchida: Dpt° Pessoal, valor 50,00](screenshots/dualpdv_(9).jpeg)
