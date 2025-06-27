@@ -26,11 +26,6 @@ yarn android
 # (opcional) Link manual de bibliotecas nativas
 npx react-native link
 
-## Screenshots do Sistema DualPDV
-
 ## Screenshots
-
-## Screenshots
-- ![dualpdv_1](src/screenshots/dualpdv_1.jpeg)
-- ![dualpdv_2](src/screenshots/dualpdv_2.jpeg)
-...
+<img src="src/screenshots/dualpdv_1.jpeg" width="150" alt="Tela 1" />
+<img src="src/screenshots/dualpdv_2.jpeg" width="150" alt="Tela 2" />
