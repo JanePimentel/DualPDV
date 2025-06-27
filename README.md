@@ -28,22 +28,27 @@ npx react-native link
 
 ## Screenshots do Sistema DualPDV
 
-## Screenshots do Sistema
+## Screenshots
 
-### Aviso de Sincronização
-![Aviso para sincronizar o aplicativo](screenshots/dualpdv_(1).jpeg)
-
-### Seleção de Idioma
-![Opções de idioma: Português e English](screenshots/dualpdv_(2).jpeg)
-
-### Chave de Assinatura
-![Campo para inserir a chave de assinatura](screenshots/dualpdv_(3).jpeg)
-
-### Fluxo de Caixa Fechado
-![Menu do sistema com opções como Vender, Estoque, etc.](screenshots/dualpdv_(4).jpeg)
-
-### Despesas (Formulário Vazio)
-![Formulário para registrar despesas com campos vazios](screenshots/dualpdv_(8).jpeg)
-
-### Despesas (Preenchido)
-![Exemplo de despesa preenchida: Dpt° Pessoal, valor 50,00](screenshots/dualpdv_(9).jpeg)
+- ![dualpdv_1](screenshots/dualpdv_1.jpeg)
+- ![dualpdv_2](screenshots/dualpdv_2.jpeg)
+- ![dualpdv_3](screenshots/dualpdv_3.jpeg)
+- ![dualpdv_4](screenshots/dualpdv_4.jpeg)
+- ![dualpdv_5](screenshots/dualpdv_5.jpeg)
+- ![dualpdv_6](screenshots/dualpdv_6.jpeg)
+- ![dualpdv_7](screenshots/dualpdv_7.jpeg)
+- ![dualpdv_8](screenshots/dualpdv_8.jpeg)
+- ![dualpdv_9](screenshots/dualpdv_9.jpeg)
+- ![dualpdv_10](screenshots/dualpdv_10.jpeg)
+- ![dualpdv_11](screenshots/dualpdv_11.jpeg)
+- ![dualpdv_12](screenshots/dualpdv_12.jpeg)
+- ![dualpdv_13](screenshots/dualpdv_13.jpeg)
+- ![dualpdv_14](screenshots/dualpdv_14.jpeg)
+- ![dualpdv_15](screenshots/dualpdv_15.jpeg)
+- ![dualpdv_16](screenshots/dualpdv_16.jpeg)
+- ![dualpdv_17](screenshots/dualpdv_17.jpeg)
+- ![dualpdv_18](screenshots/dualpdv_18.jpeg)
+- ![dualpdv_19](screenshots/dualpdv_19.jpeg)
+- ![dualpdv_20](screenshots/dualpdv_20.jpeg)
+- ![dualpdv_21](screenshots/dualpdv_21.jpeg)
+- ![dualpdv_22](screenshots/dualpdv_22.jpeg)
