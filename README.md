@@ -30,7 +30,7 @@ npx react-native link
 
 ## Screenshots
 
-- ![dualpdv_1](screenshots/dualpdv_1.jpeg)
+- ![dualpdv_1](src/screenshots/dualpdv_1.jpeg)
 - ![dualpdv_2](screenshots/dualpdv_2.jpeg)
 - ![dualpdv_3](screenshots/dualpdv_3.jpeg)
 - ![dualpdv_4](screenshots/dualpdv_4.jpeg)
